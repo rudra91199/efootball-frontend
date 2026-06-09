@@ -1,0 +1,29 @@
+.color{
+    background-color: #041996;
+color: rgb(254, 251, 4);
+color: rgb(255, 0, 130);
+color: rgb(242, 8, 4);
+color: #f015c7;
+color: #69fd00;
+color: #ffffff00;
+/** Upcoming Color */
+color: rgb(43, 127, 255); 
+/**Text COlor*/
+color: rgba(117, 171, 252, 0.63); 
+/** Live Color  */
+color:#fb2c36;
+/** Reg Open  */
+color:#00c950;
+color: #c634d333;
+color: hsl(240,7%,84%);
+color: #09090b;
+color: hsl(0,100%,27%);
+
+}
+
+
+.text-logo{
+  background: linear-gradient(to bottom right, rgb(254, 251, 4), rgb(255, 0, 130),rgb(242, 8, 4),#041996);
+  color: transparent;
+  -webkit-background-clip: text;
+}
